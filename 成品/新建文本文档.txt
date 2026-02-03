@@ -1,0 +1,26 @@
+masterpiece, best quality, ultra detailed,
+1 boy, young boy, child, age 8-10,
+half body portrait, upper body,
+cute but realistic face, clear facial features,
+big expressive eyes, soft natural skin texture,
+short black hair, neat haircut,
+gentle and calm expression, looking at camera,
+
+wearing a simple hoodie, light-colored clothes,
+soft natural lighting, front light,
+sharp focus on face, high facial detail,
+
+background slightly complex,
+blurred background, shallow depth of field,
+outdoor scene, trees and buildings softly visible,
+cinematic portrait photography, linkclick style
+
+
+worst quality, low quality, lowres,
+blurry face, out of focus,
+bad anatomy, deformed face,
+adult, teenager, old man,
+extra fingers, bad hands,
+anime, cartoon, illustration, 3d,
+overly complex background, cluttered background,
+text, watermark, logo
